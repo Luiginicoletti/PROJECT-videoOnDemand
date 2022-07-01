@@ -7,6 +7,7 @@
 <p align="center">Adicionei 4 features novas e estou trabalhando em mais 2 
 </p>
 </p>
+
 ![gitbynico](https://user-images.githubusercontent.com/17785028/176801840-a48f299e-6d58-488d-a88e-16698cdca622.png)
 
 <h1 align="center"> Sinta-se à vontade para clonar e utilizar o projeto! </h1>
