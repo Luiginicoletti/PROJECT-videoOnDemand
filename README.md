@@ -1,5 +1,6 @@
 
 <h1 align="center"> Projeto ignitelab </h1>
+ENTRE COM QUALQUER USUARIO E QUALQUER EMAIL PARA ACESSAR O INTERIOR DO PROJETO
 <p align="center"> Projeto ignitelab, plataforma de video/curso com data para liberação das aulas, consumidas por handless api.</p>
 <h2 align="center"> Versão </h2>
 <p align="center">
